@@ -7,6 +7,10 @@
 </head>
 <body>
 
+<h3> Link for All Kaggle Dataset: </h3>
+<br>https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv</br>
+
+
 <p>This project demonstrates my ability to manage, clean, analyze, and visualize large datasets using SQL and Python. The focus is on leveraging SQL for data manipulation and Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, analysis, and visualization.</p>
 
 <h2>Key Features:</h2>
